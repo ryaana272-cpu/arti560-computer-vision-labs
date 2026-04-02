@@ -1,0 +1,13 @@
+image,class_name,count
+cars_people,car,7
+cars_people,person,5
+cars_people,skateboard,1
+gang,person,3
+gang,cup,1
+person,person,1
+street,car,6
+street,person,5
+street,tv,1
+tamata_cat,apple,1
+tamata_cat,cat,1
+tamata_cat,dining table,1
